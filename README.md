@@ -20,7 +20,7 @@ Other players can recognize and add as many assertions and observations from you
 
 You can only write down one card from the current scene at a time, and you can only start writing a card - unless you're the speaker playing their Original Addition - right after the speaker says it (so, if you're writing when something better comes along, you have to either give up what you were writing, or give up on what was just said to keep writing what you were). You might want to look around and see if others are blocked, so that somebody else might be able to write down something juicy that could come up while you're writing.
 
-Declare what you're writing before writing it (and what you're canceling if so), immediately when you are. It's like buzzing in on Would I Lie To You.
+Declare what you're writing before writing it (and what you're canceling if so), immediately when you are. It's like buzzing in on Would I Lie To You: you can't declare that you're just now adding an observation for something that happened over a minute ago.
 
 (should canceling not be allowed?)
 
